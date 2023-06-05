@@ -1,0 +1,9 @@
+#aws
+.aws-sam
+.idea
+documentation
+events
+LibraryAppFunction
+LibraryQueueFunction
+LibraryApp.iml
+template.yaml
