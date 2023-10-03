@@ -1,7 +1,6 @@
 #aws
 .aws-sam
 .idea
-documentation
 events
 LibraryAppFunction
 LibraryQueueFunction
